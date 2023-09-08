@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name1">ssa</string>
+    <string-array name="my_array">
+        <item>송파구 올림픽로 4길 42</item>
+    </string-array>
+</resources>
